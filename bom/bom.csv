@@ -1,0 +1,10 @@
+Part,Quantity,Price (INR),Notes
+ESP32-C3 Super Mini,1,274,Main flight controller
+MPU6050,2,312,IMU sensors
+DRV8833 Motor Driver,2,126,Motor control
+720 Coreless Motor Set,1,375,2 CW + 2 CCW motors
+55mm Propeller Set,3,99,Spare props included
+3.7V 800mAh LiPo Battery,1,294,Main battery
+TP4056 USB-C Charger,1,15,Battery charging
+JST SM Connector with Wires,2,14,Power connections
+DT830D Multimeter,1,143,Testing tool
