@@ -67,3 +67,11 @@ Build a custom gesture-controlled micro drone using ESP32-C3.
 6. Implement stabilization code
 7. Build gesture controller
 8. Attempt first hover
+
+## Documentation
+
+- [Journal](JOURNAL.md)
+- [Build Log](docs/build-log.md)
+- [Wiring Plan](docs/wiring.md)
+- [Frame Design](docs/frame-design.md)
+- [Bill of Materials](bom/bom.csv)
