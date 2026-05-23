@@ -1,9 +1,1 @@
-Part,Quantity,Price (USD),Item Link,Notes
-ESP32-C3 Super Mini USB C-Type Development Board | with Expansion Board,1,8.35,https://www.amazon.in/Development-Bluetooth-Low-Power-Controller-Electronics/dp/B0G59T26D2,Main flight controller
-MPU6050,2,10,https://www.amazon.in/UG-LAND-INDIA-MPU6050-Accelerometer/dp/B0CY2F5ZCV,IMU sensors
-DRV8833 Motor Driver,2,2,https://www.amazon.in/BenchRobotics-DRV8833-H-Bridge-Motor-Driver/dp/B0GQQNDQBF,Motor control
-720 Coreless Motor Set,1,15,https://www.amazon.in/Helicopter-Coreless-Motor-Torque-Propeller/dp/B01HXSNSQO,2 CW + 2 CCW motors
-55mm Propeller Set,3,8,https://www.amazon.in/UG-LAND-INDIA-55mm-Propeller/dp/B0GTX8C7V6,Spare props included
-3.7V 800mAh LiPo Battery,1,7,https://www.amazon.in/Rechargeable-Battery-Quadcopeter-Quadcopter-Helicopter/dp/B0D388H4CK,Main battery
-TP4056 USB-C Charger,2,3,https://www.amazon.in/Electro-Charging-Lithium-Overcharge-Protection/dp/B0FTLZYDL8,Battery charging
-JST SM Connector with Wires,2,2,https://www.amazon.in/Universal-Connector-Connect-Electronics-Projects/dp/B0GSMZS6NS?s=bazaar&th=1,Power connections
+
