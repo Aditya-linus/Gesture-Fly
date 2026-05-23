@@ -1,13 +1,13 @@
 # Frame Design
+## Requirements 
 
-## Requirements
-
-- Support 720 motors
-- Support 55mm propellers
+- Should be able to supports 720 motors
+- Support 55mm propeller without collision
 - Hold ESP32-C3
-- Hold MPU6050
-- Hold 800mAh LiPo battery
+- HOLD MPU6050
+- HOLD 800 mAh LiPo battery
+- combined weight should be arounf 180 grams
 
-## Ideas
+## Ideas 
 
 (To be updated)
