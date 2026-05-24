@@ -1,10 +1,31 @@
 # ESP32-C3-BASED-GESTURE-CONTROLLED DRONE
 
-Building a custom ESP32-C3 gesture controlled drone from scratch
+## Why I decided to build this?| A custom ESP32-C3 gesture controlled drone from scratch.
+.
+I really like building stuff using microsontrollers. I have build many projects such as an Automatic  fire fighting robot which sends signal to your phone depending on the type of emergencies and also alerts the users with call alerts. I have also built a custom carbon fiber frame drone which can be mainly used in the agricultural sector. Sadly I did not document any of these projects online.
 
-## Custom Gesture drone
+While I was looking at the pictures of my old drone which I made from a carbon fiber frane with custom softaware and agricultural pov. I thought why can't I control drones through my hand gestures like they do in movies and so I got an idea of what I wanted to make. Having prior experiences with drones I knew controlling a full sized drone through my gestures would'nt be easy and neither cheap so I landed upon a vague idea of how I wanted this project to be. I decided that My drone will be a micro drone preferrably under 180g and first it would be able to take flights controlled through my phone then my hand gestures since I knew it was gonna be easy I decided to divide my project into three stages.
 
-### Goal 
+# Stage 1:
+
+Get all the components needed to make this work and get them to sync with each other while keeping 3 things in mind.
+- The overall of the drone shouldnt be more than 180g after assembly
+- It should be under a very strict budget (cuz I'm broke lol)
+- and last but not the least it shoudl atleast have stable hovering mechanisms with its center of gravity balances itself.
+  
+# Stage 2:
+- Get the drone connected to my phone or another esp through the ESPnow protocol to hopefully be able to control it wirelessly through my phone or another esp.
+- Then after a successfull hover controlled through my phone get a black box [Note- A black box is kind of a device that can telemetry and system information in real-time and send it over to my computer] in my drone so that I can trouble shoot any problems that occur either from telemetry or flight controls.
+
+# Stage 3:
+- The last and the final most valuable, important and my favourite part about this project make a gesture glove using a module like the MPU6050 a 6 axis gyroscope which can be used to track hand movements or get the droneto stabilize itself.
+- Objective is to successfully control the drones left right yaw and roll through my gesture glove and make it work.
+  I know its gonna be hard but it isnt gonna be impossible I have made a gesture controlled car before so Its going to be something similiar just a bit harder.
+
+
+### Custom Gesture drone
+
+#### Goal 
 
 Make the drone from scratch and keep the weight under 180g with the least amout of cost 
 
@@ -25,9 +46,9 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 
 - [x] Research Completed
 - [x] Componenets ordered (Prototype)
-- [ ] Components delivered
+- [x] Components delivered
 - [ ] MPU6050 Testing
-- [ ] Motors and drivers testing
+- [x] Motors and drivers testing
 - [ ] Frame design
 - [ ] First Hover attempt
 - [ ] Gesture controller
@@ -37,17 +58,17 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 - ESP32-C3 as a flight controller
 - Custom 3-d Printed frame design
 - Wireless control System
-- Flight data logging
+- Flight data logging (using a black box)
 
 ## Next Steps (Priority order)
-1. Receive ordered components
-2. TEST the equipment such as ESP32-C2
-3. Test the MPU6050 FOR stabilization
-4. Test motors with DRV8833 and thrust
-5. Desingn a frame in FUSION360 then print it
-6. Implement codes for stabilization
-7. First Hover tests throught Mobile
-8. Flight Data Logging ( Make a black box of some sort)
+1. Receive ordered components -  ✔
+2. TEST the equipment such as ESP32-C3 - 
+3. Test the MPU6050 FOR stabilization -
+4. Test motors with DRV8833 and thrust -  ✔
+5. Desingn a frame in FUSION360 then print it -
+6. Implement codes for stabilization - 
+7. First Hover tests throught Mobile -
+8. Flight Data Logging ( Make a black box of some sort) - 
 
 
 ## Documentation
