@@ -1,7 +1,7 @@
 # ESP32-C3-BASED-GESTURE-CONTROLLED DRONE
 
 ## Why I decided to build this?| A custom ESP32-C3 gesture controlled drone from scratch.
-.
+
 I really like building stuff using microsontrollers. I have build many projects such as an Automatic  fire fighting robot which sends signal to your phone depending on the type of emergencies and also alerts the users with call alerts. I have also built a custom carbon fiber frame drone which can be mainly used in the agricultural sector. Sadly I did not document any of these projects online.
 
 While I was looking at the pictures of my old drone which I made from a carbon fiber frane with custom softaware and agricultural pov. I thought why can't I control drones through my hand gestures like they do in movies and so I got an idea of what I wanted to make. Having prior experiences with drones I knew controlling a full sized drone through my gestures would'nt be easy and neither cheap so I landed upon a vague idea of how I wanted this project to be. I decided that My drone will be a micro drone preferrably under 180g and first it would be able to take flights controlled through my phone then my hand gestures since I knew it was gonna be easy I decided to divide my project into three stages.
