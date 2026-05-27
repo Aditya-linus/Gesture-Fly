@@ -1,4 +1,4 @@
-# GestureFly 🚁
+# GestureFly 
 ### ESP32-C3 Based Gesture-Controlled Micro Drone
 
 ## Quick Links
