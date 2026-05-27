@@ -1,10 +1,40 @@
-# ESP32-C3-BASED-GESTURE-CONTROLLED DRONE
+# GestureFly 🚁
+### ESP32-C3 Based Gesture-Controlled Micro Drone
+
+## Quick Links
+
+- [Build Log](docs/build-log.md)
+- [Wiring Guide](docs/wiring.md)
+- [Frame Design](docs/frame-design.md)
+- [Bill of Materials](hardware/bom/bom.csv)
+- [Journal](JOURNAL.md)
+- [Zine](docs/zine/)
+
+
 
 ## Why I decided to build this?| A custom ESP32-C3 gesture controlled drone from scratch.
 
-I really like building stuff using microsontrollers. I have build many projects such as an Automatic  fire fighting robot which sends signal to your phone depending on the type of emergencies and also alerts the users with call alerts. I have also built a custom carbon fiber frame drone which can be mainly used in the agricultural sector. Sadly I did not document any of these projects online.
 
-While I was looking at the pictures of my old drone which I made from a carbon fiber frane with custom softaware and agricultural pov. I thought why can't I control drones through my hand gestures like they do in movies and so I got an idea of what I wanted to make. Having prior experiences with drones I knew controlling a full sized drone through my gestures would'nt be easy and neither cheap so I landed upon a vague idea of how I wanted this project to be. I decided that My drone will be a micro drone preferrably under 180g and first it would be able to take flights controlled through my phone then my hand gestures since I knew it was gonna be easy I decided to divide my project into three stages.
+I really like building stuff using microcontrollers. I have build many projects such as an Automatic  fire fighting robot which sends signal to your phone depending on the type of emergencies and also alerts the users with call alerts. I have also built a custom carbon fiber frame drone which can be mainly used in the agricultural sector. Sadly I did not document any of these projects online.
+
+While I was looking at the pictures of my old drone which I made from a carbon fiber frane with custom softaware and agricultural pov. I thought why can't I control drones through my hand gestures like they do in movies and so I got an idea of what I wanted to make. Having prior experiences with drones I knew controlling a full sized drone through my gestures wouldn't be easy and neither cheap so I landed upon a vague idea of how I wanted this project to be. I decided that My drone will be a micro drone preferrably under 180g and first it would be able to take flights controlled through my phone then my hand gestures since I knew it was gonna be easy I decided to divide my project into three stages.
+
+## Current State
+
+The electronics platform is currently functional.
+
+Completed:
+- ESP32-C3 bring-up
+- MPU6050 I²C communication
+- DRV8833 motor testing
+- Motor spin verification
+- 3D frame selection
+
+Currently working on:
+- Frame printing
+- Stabilization firmware
+- First hover tests
+
 
 # Stage 1:
 
@@ -47,9 +77,9 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 - [x] Research Completed
 - [x] Componenets ordered (Prototype)
 - [x] Components delivered
-- [ ] MPU6050 Testing
+- [x] MPU6050 Testing
 - [x] Motors and drivers testing
-- [ ] Frame design
+- [x] Frame design
 - [ ] First Hover attempt
 - [ ] Gesture controller
 
@@ -62,22 +92,14 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 
 ## Next Steps (Priority order)
 1. Receive ordered components -  ✔
-2. TEST the equipment such as ESP32-C3 - 
-3. Test the MPU6050 FOR stabilization -
+2. TEST the equipment such as ESP32-C3 - ✔
+3. Test the MPU6050 FOR stabilization - ✔
 4. Test motors with DRV8833 and thrust -  ✔
-5. Desingn a frame in FUSION360 then print it -
-6. Implement codes for stabilization - 
+5. Design a frame in FUSION360 then print it - ✔
+6. Implement codes for stabilization -  ✔
 7. First Hover tests throught Mobile -
 8. Flight Data Logging ( Make a black box of some sort) - 
 
-
-## Documentation
-
-- [Journal](JOURNAL.md)
-- [Build Log](docs/build-log.md)
-- [Wiring Plan](docs/wiring.md)
-- [Frame Design](docs/frane-design.md)
-- [Bill of Materials](bom/bom.csv)
 
   
 
