@@ -55,7 +55,9 @@ Get all the components needed to make this work and get them to sync with each o
 Here are the parts I am gonna use:
 
 
-![Uploading image.png…]()
+
+<img width="1429" height="900" alt="image" src="https://github.com/user-attachments/assets/868cacb2-be04-4e0b-beb3-016d7fac3ac5" />
+
 
 
 
