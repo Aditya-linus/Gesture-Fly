@@ -69,7 +69,7 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 
 ## COMPONENTS
 
--ESO32-C3 
+- ESP32-C3 
 - MPU6050
 - 720 coreless motors
 - DRV8833 Motor drivers
