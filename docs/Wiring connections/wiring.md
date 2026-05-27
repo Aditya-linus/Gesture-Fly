@@ -23,20 +23,20 @@ DRV8833 Drivers
 
 # ESP32 C3 Connections 
 
-| ESP32-C3 Pin | Connected Component | Purpose |
+| ESP32-C3 Pin | Connected Component |
 |---|---|---|
-| GPIO2 | DRV8833 #1 IN1 | Motor Control |
-| GPIO3 | DRV8833 #1 IN2 | Motor Control |
-| GPIO6 | DRV8833 #1 IN3 | Motor Control |
-| GPIO7 | DRV8833 #1 IN4 | Motor Control |
-| GPIO8 | DRV8833 #2 IN1 | Motor Control |
-| GPIO9 | DRV8833 #2 IN2 | Motor Control |
-| GPIO10 | DRV8833 #2 IN3 | Motor Control |
-| GPIO20 | DRV8833 #2 IN4 | Motor Control |
-| GPIO4 | MPU6050 SDA | I2C Data |
-| GPIO5 | MPU6050 SCL | I2C Clock |
-| 3V3 | MPU6050 VCC | Sensor Power |
-| GND | Common Ground | Shared Ground |
+| GPIO 2 | DRV8833-1 IN1 |
+| GPIO 3 | DRV8833-1 IN2 |
+| GPIO 6 | DRV8833-1 IN3 |
+| GPIO 7 | DRV8833-1 IN4 |
+| GPIO 8 | DRV8833-2 IN1 |
+| GPIO 9 | DRV8833-2 IN2 |
+| GPIO 10 | DRV8833-2 IN3 |
+| GPIO 20 | DRV8833-2 IN4 |
+| GPI O4 | MPU6050 SDA |
+| GPI O5 | MPU6050 SCL |
+| 3V3 | MPU6050 VCC |
+| GND | Common Ground |
 
 ---
 
@@ -48,11 +48,8 @@ DRV8833 Drivers
 | GND | GND |
 | SDA | GPIO4 |
 | SCL | GPIO5 |
-| XDA | Not Connected |
-| XCL | Not Connected |
-| AD0 | Not Connected |
-| INT | Optional Future Use |
 
+Note- Leave the connectorr free which arent mentioned.
 ---
 
 # DRV8833 #1 Connections
