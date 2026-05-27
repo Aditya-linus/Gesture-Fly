@@ -10,4 +10,8 @@
 
 ## Ideas 
 
-(To be updated)
+Here are some iumages for the v1 of GESTURE-FLY Frame
+
+
+<img width="586" height="534" alt="image" src="https://github.com/user-attachments/assets/7300cd46-9041-4ef1-afad-3923cf04d7f4" />
+
