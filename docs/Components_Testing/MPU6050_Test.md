@@ -26,6 +26,7 @@
 8. Tilt the sensor physically to confirm changing sensor values.
 
 
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/ce88113d-54fa-43b1-bfe5-800c416d2692" />
 
 
 # I2C Scanner Code
