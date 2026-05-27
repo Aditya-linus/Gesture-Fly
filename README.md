@@ -52,6 +52,12 @@ Get all the components needed to make this work and get them to sync with each o
 - Objective is to successfully control the drones left right yaw and roll through my gesture glove and make it work.
   I know its gonna be hard but it isnt gonna be impossible I have made a gesture controlled car before so Its going to be something similiar just a bit harder.
 
+Here are the parts I am gonna use:
+
+
+![Uploading image.png…]()
+
+
 
 ### Custom Gesture drone
 
