@@ -70,3 +70,5 @@ Started Learning Githun and project documentation
 - Design first drone frame concept in CAD
 - do some research ont he stabilization softwares required for this drone like Ardupilot.
 
+
+P.S. contuinued journals were uploaded into fallout.
