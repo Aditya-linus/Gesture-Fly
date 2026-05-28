@@ -41,11 +41,11 @@ Currently working on:
 Get all the components needed to make this work and get them to sync with each other while keeping 3 things in mind.
 - The overall of the drone shouldnt be more than 180g after assembly
 - It should be under a very strict budget (cuz I'm broke lol)
-- and last but not the least it shoudl atleast have stable hovering mechanisms with its center of gravity balances itself.
+- and last but not the least it should atleast have stable hovering mechanisms with its center of gravity balances itself.
   
 # Stage 2:
 - Get the drone connected to my phone or another esp through the ESPnow protocol to hopefully be able to control it wirelessly through my phone or another esp.
-- Then after a successfull hover controlled through my phone get a black box [Note- A black box is kind of a device that can telemetry and system information in real-time and send it over to my computer] in my drone so that I can trouble shoot any problems that occur either from telemetry or flight controls.
+- Then after a successfull hover controlled through my phone get a black box [Note- A black box is kind of a device that can record telemetry and system information in real-time and send it over to my computer] in my drone so that I can trouble shoot any problems that occur either from telemetry or flight controls.
 
 # Stage 3:
 - The last and the final most valuable, important and my favourite part about this project make a gesture glove using a module like the MPU6050 a 6 axis gyroscope which can be used to track hand movements or get the droneto stabilize itself.
