@@ -24,7 +24,7 @@ DRV8833 Drivers
 # ESP32 C3 Connections 
 
 | ESP32-C3 Pin | Connected Component |
-|---|---|---|
+|---|---|
 | GPIO 2 | DRV8833-1 IN1 |
 | GPIO 3 | DRV8833-1 IN2 |
 | GPIO 6 | DRV8833-1 IN3 |
