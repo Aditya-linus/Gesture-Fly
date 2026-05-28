@@ -3,7 +3,6 @@
 
 ## Quick Links
 
-- [Build Log](docs/build-log.md)
 - [Wiring Guide](docs/wiring.md)
 - [Frame Design](docs/frame-design.md)
 - [Bill of Materials](hardware/bom/bom.csv)
