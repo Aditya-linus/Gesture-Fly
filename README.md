@@ -110,6 +110,9 @@ Make the drone from scratch and keep the weight under 180g with the least amout 
 
 
   
+Here is the zine:
+
+[zine.pdf](https://github.com/user-attachments/files/28347967/zine.pdf)
 
 
 
