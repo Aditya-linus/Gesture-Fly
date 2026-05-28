@@ -7,7 +7,7 @@
 - [Frame Design](docs/Frame-Designs/frame-design.md)
 - [Bill of Materials](hardware/bom/bom.csv)
 - [Journal](JOURNAL.md)
-- [Zine](docs/zine/)
+- [Zine](docs/Zine)
 - [Bom](bom/bom.csv)
 
 
