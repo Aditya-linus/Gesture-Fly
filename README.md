@@ -8,6 +8,7 @@
 - [Bill of Materials](hardware/bom/bom.csv)
 - [Journal](JOURNAL.md)
 - [Zine](docs/zine/)
+- [Bom](bom/bom.csv)
 
 
 
