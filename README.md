@@ -3,7 +3,7 @@
 
 ## Quick Links
 
-- [Wiring Guide](docs/wiring.md)
+- [Wiring Guide](Wirinngconnections/wiring.md)
 - [Frame Design](docs/frame-design.md)
 - [Bill of Materials](hardware/bom/bom.csv)
 - [Journal](JOURNAL.md)
